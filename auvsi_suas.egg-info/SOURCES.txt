@@ -9,3 +9,4 @@ auvsi_suas/client/__init__.py
 auvsi_suas/client/client.py
 auvsi_suas/client/client_test.py
 auvsi_suas/client/exceptions.py
+auvsi_suas/proto/__init__.py

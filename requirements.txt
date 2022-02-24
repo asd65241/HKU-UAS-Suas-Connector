@@ -1,6 +1,5 @@
 LatLon
 future
-futures
 lxml
 nose
 protobuf>=3.2
