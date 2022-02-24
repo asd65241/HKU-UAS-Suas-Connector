@@ -1,0 +1,11 @@
+setup.py
+auvsi_suas/__init__.py
+auvsi_suas.egg-info/PKG-INFO
+auvsi_suas.egg-info/SOURCES.txt
+auvsi_suas.egg-info/dependency_links.txt
+auvsi_suas.egg-info/requires.txt
+auvsi_suas.egg-info/top_level.txt
+auvsi_suas/client/__init__.py
+auvsi_suas/client/client.py
+auvsi_suas/client/client_test.py
+auvsi_suas/client/exceptions.py
